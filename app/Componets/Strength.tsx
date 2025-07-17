@@ -86,7 +86,7 @@ const accordionData = [
 ];
 
 function Strength() {
-  const [activeIndex, setActiveIndex] = useState(0);
+  const [activeIndex, setActiveIndex] = useState<number | null>(0); // ✅ Fixed line
 
   const toggle = (index: number) => {
     setActiveIndex(activeIndex === index ? null : index);
