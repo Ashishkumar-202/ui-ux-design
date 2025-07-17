@@ -29,7 +29,7 @@ function Header() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.4 }}
       >
-        Specializing in User-Centered design solution that enhance user experience and drive business growth. Let's create something amazing together.
+        Specializing in User-Centered design solution that enhance user experience and drive business growth. Let s create something amazing together.
       </motion.p>
 
       <motion.div

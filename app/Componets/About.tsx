@@ -37,13 +37,13 @@ function About() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <p className="text-black text-lg leading-relaxed">
-            Hello! I'm a passionate UX designer with a background in
+            Hello! Im a passionate UX designer with a background in
             human-computer interaction and a deep understanding of user
             psychology. I believe in creating intuitive, accessible, and
             delightful digital experiences.
           </p>
           <p className="text-black text-lg leading-relaxed">
-            With over 9 years of experience in the industry, I've worked with
+            With over 9 years of experience in the industry, I ve worked with
             startups and established companies to transform complex problems
             into elegant solutions.
           </p>
